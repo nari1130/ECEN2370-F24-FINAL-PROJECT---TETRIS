@@ -1,0 +1,4 @@
+../Core/Src/RNG.c:12:6:RNG_Init	2
+../Core/Src/RNG.c:20:6:RNG_Error_Handler	1
+../Core/Src/RNG.c:28:10:RNG_Generate	2
+../Core/Src/RNG.c:39:6:RNGAscii	2

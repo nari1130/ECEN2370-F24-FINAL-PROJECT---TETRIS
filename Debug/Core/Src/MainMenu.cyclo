@@ -1,0 +1,3 @@
+../Core/Src/MainMenu.c:11:6:DisplayTitle	1
+../Core/Src/MainMenu.c:20:6:ButtonToStart	1
+../Core/Src/MainMenu.c:44:6:DrawMainMenu	1

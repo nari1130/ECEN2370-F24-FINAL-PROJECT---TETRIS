@@ -1,0 +1,13 @@
+../Core/Src/Gameplay.c:29:6:generateTetrimino	5
+../Core/Src/Gameplay.c:57:6:checkforCollision	8
+../Core/Src/Gameplay.c:75:6:rotateTetriminoCW	7
+../Core/Src/Gameplay.c:96:6:rotateTetrimino	6
+../Core/Src/Gameplay.c:121:6:placeTetrimino	8
+../Core/Src/Gameplay.c:142:6:updateTetriminoPosition	4
+../Core/Src/Gameplay.c:167:6:clearTetrimino	4
+../Core/Src/Gameplay.c:180:6:generateGameGrid	1
+../Core/Src/Gameplay.c:185:6:moveTetriminoDown	3
+../Core/Src/Gameplay.c:203:6:gameOverFunction	2
+../Core/Src/Gameplay.c:212:6:clearRows	12
+../Core/Src/Gameplay.c:257:6:updateScore	1
+../Core/Src/Gameplay.c:261:6:drawEndScreen	1
